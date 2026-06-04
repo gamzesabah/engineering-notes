@@ -1,0 +1,13 @@
+# CQRS
+
+## CQRS nedir?
+Command-Ekleme,güncelleme işlemleri
+Query-Okuma,getirme işlemleri
+Okuma ve yazma işlemlerini birbirinde ayıran bir yapıdır
+Application katmanında yer alır
+
+## Neden ihtiyaç duyduk?
+Büyük sistemlerde performans arttırabilmek için
+
+##Trade-off
+Küçük projelerde gereksiz olabilir
